@@ -1,0 +1,1055 @@
+    .header-section-div {
+        background-color: rgb(109, 9, 167);
+        height: 70px;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .contact {
+        padding-left: 1px;
+        margin-left: 300px;
+        padding-top: 1px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+        font-size: 20px;
+        color: rgb(12, 12, 12);
+        display: inline-block;
+        text-align: left;
+        font-weight: 700;
+    }
+
+    .email {
+        padding-left: 1px;
+        margin-left: 300px;
+        padding-bottom: 1px;
+        color: rgb(245, 243, 243);
+        font-size: 20px;
+        display: inline-block;
+        text-align: right;
+    }
+
+    .location-text {
+        padding-left: 1px;
+        margin-left: 300px;
+        padding-top: 1px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+        font-size: 20px;
+        color: rgb(247, 242, 242);
+        display: inline-block;
+        text-align: left;
+    }
+
+    .nav-bar {
+        background-color: rgba(65, 75, 165, 0);
+        height: 100px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 2fr 1fr;
+        position: sticky;
+        top: 0;
+        z-index: 1000;
+    }
+
+    .logo-icon {
+        width: 100px;
+        height: 100%;
+        margin: 0px 0px 0px 0px;
+        border-radius: 0px;
+        margin-right: 0;
+    }
+
+    .about-div {
+        background-color: rgb(182, 192, 197);
+        height: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 561px;
+        margin-top: 0px;
+        margin-left: auto;
+    }
+
+    .about-text {
+        padding-left: 90px;
+        padding-top: 10px;
+        font-size: 24px;
+    }
+
+    .services-section-div {
+        background-color: lightgreen;
+        height: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 500px;
+        margin-top: 0px;
+    }
+
+    .services-section-text {
+        padding-left: 90px;
+        padding-top: 10px;
+        font-size: 24px;
+    }
+
+    .best-web-designer-div {
+        background-color: rgb(150, 144, 238);
+        height: 100%;
+        margin-left: 0px;
+        margin-right: 20px;
+        width: 600px;
+        margin-top: 0px;
+    }
+
+    .best-web-designer-text {
+        padding-left: 90px;
+        padding-top: 10px;
+        font-size: 24px;
+    }
+
+    .whatsapp-icon {
+        width: 100px;
+        height: 100%;
+        margin: 0px 0px 0px 0px;
+        border-radius: 0px;
+        margin-right: 0;
+    }
+
+    .main-services-div {
+        display: flex;
+        flex-direction: columns;
+        height: 540px;
+        width: 100%;
+        Margin-top: 1px;
+        margin-bottom: 15px;
+        background-color: aqua
+    }
+
+    .web-development-div {
+        background-color: lightblue;
+        Height: 100%;
+        Margin-left: 0px;
+        Margin-right: 0px;
+        flex: 1;
+        text-align: center;
+    }
+
+    .web-development-image {
+        margin-top: 10px;
+        width: 350px;
+        height: 200px;
+    }
+
+    .web-development-text {
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 18px;
+    }
+
+    .graphic-designing-div {
+        background-color: rgb(209, 245, 7);
+        Height: 100%;
+        Margin-left: 0px;
+        Margin-right: 0px;
+        flex: 1;
+        text-align: center;
+    }
+
+    .graphic-designing-image {
+        margin-top: 10px;
+        width: 350px;
+        height: 200px;
+
+    }
+
+    .graphic-designing-text {
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 18px;
+    }
+
+    .digital-marketing-div {
+        background-color: rgb(208, 144, 238);
+        Height: 100%;
+        Margin-left: 0px;
+        Margin-right: 0px;
+        flex: 1;
+        text-align: center;
+    }
+
+    .digital-marketing-image {
+        margin-top: 10px;
+        width: 350px;
+        height: 200px;
+    }
+
+    .digital-marketing-text {
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 18px;
+    }
+
+    .SEO-div {
+        background-color: rgb(7, 134, 113);
+        Height: 100%;
+        Margin-left: 0px;
+        Margin-right: 0px;
+        flex: 1;
+        text-align: center;
+    }
+
+    .SEO-image {
+        margin-top: 10px;
+        width: 350px;
+        height: 200px;
+    }
+
+    .SEO-text {
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 18px;
+    }
+
+
+    .latest-projects-div {
+        background-color: rgb(202, 201, 199);
+        height: 300px;
+        margin-top: 3px;
+        margin-bottom: 0px;
+    }
+
+    .beellan-tv-image {
+        margin-top: 6px;
+        width: 300px;
+        height: 200px;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-bottom: 45px;
+    }
+
+    .gadman-adventures-image {
+        margin-top: 30px;
+        width: 350px;
+        height: 230px;
+        margin-right: 15px;
+        margin-left: 15px;
+        margin-bottom: 30px;
+    }
+
+    .perfection-juice-image {
+        margin-top: 30px;
+        width: 350px;
+        height: 230px;
+        margin-right: 5px;
+        margin-left: 5px;
+        margin-bottom: 30px;
+    }
+
+    .perfect-researchers-image {
+        margin-top: 30px;
+        width: 350px;
+        height: 230px;
+        margin-right: 15px;
+        margin-left: 15px;
+        margin-bottom: 30px;
+    }
+
+    .dubai-imports-image {
+        margin-top: 30px;
+        width: 350px;
+        height: 230px;
+        margin-right: 15px;
+        margin-left: 15px;
+        margin-bottom: 30px;
+    }
+
+    .blogs-div {
+        background-color: rgb(48, 48, 128);
+        height: 100px;
+    }
+
+    .blogs-title-text {
+        color: white;
+        margin-left: 10px;
+        margin-bottom: 5px;
+        margin-top: 10px;
+    }
+
+    .manage-website-text {
+        margin-left: 10px;
+        margin-bottom: 10px;
+        color: white;
+    }
+
+    .bfuown-website-text {
+        margin-left: 10px;
+        margin-bottom: 10px;
+        color: white;
+    }
+
+    .policy-terms-div {
+        display: flex;
+        flex-direction: columns;
+        height: 282px;
+        width: 100%;
+        Margin-top: 15px;
+        margin-bottom: 15px;
+        background-color: aqua flex: 1;
+    }
+
+    .privacy-policy-div {
+        background-color: rgb(185, 187, 182);
+        margin-left: 0px;
+        width: 50%;
+        height: 300px;
+    }
+
+    .privacy-policy-title {
+        text-align: center;
+        font-weight: 300;
+        font-size: 20px;
+    }
+
+    .privacy-policy-text {
+        margin: 20px 20px 20px 20px;
+    }
+
+    .terms-service-div {
+        background-color: rgb(205, 194, 211);
+        width: 50%;
+        height: 300px;
+    }
+
+    .terms-service-title {
+        text-align: center;
+        font-weight: 300;
+        font-size: 20px;
+    }
+
+    .terms-service-text {
+        margin: 20px 20px 20px 20px;
+    }
+
+    .footer-div {
+        background-color: rgb(133, 69, 133);
+        height: 60px;
+    }
+
+    .footer-text {
+        text-align: center;
+        padding-top: 15px;
+        padding-bottom: 5px;
+        font-size: 18px;
+        color: white;
+    }
+
+    @media (max-width:62.5rem) {
+        html {
+            font: size 50%;
+            /*16px x 50% = 8px*/
+        }
+
+        .header-section-div {
+            background-color: rgb(109, 9, 167);
+            height: 5rem;
+            width: 100%;
+            margin-bottom: 2rem;
+        }
+
+        .contact {
+            padding-left: 0.1rem;
+            margin-left: 0.4rem;
+            padding-top: 0.1rem;
+            padding-bottom: 0px;
+            margin-bottom: 0px;
+            font-size: 1.6rem;
+            color: rgb(12, 12, 12);
+            display: inline-block;
+            text-align: left;
+            font-weight: 700;
+        }
+
+        .email {
+            padding-left: 0.1rem;
+            margin-left: 4rem;
+            padding-bottom: 1px;
+            color: rgb(41, 28, 28);
+            font-size: 1.6rem;
+            display: inline-block;
+            text-align: right;
+        }
+
+        .location-text {
+            padding-left: 0.1rem;
+            margin-left: 4rem;
+            padding-top: 0.1rem;
+            padding-bottom: 0px;
+            margin-bottom: 0px;
+            font-size: 1.4rem;
+            color: rgb(247, 242, 242);
+            display: inline-block;
+            text-align: left;
+        }
+
+        .nav-bar {
+            background-color: rgb(170, 127, 116);
+            height: 80px;
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 2fr 1fr;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .logo-icon {
+            width: 60px;
+            height: 60px;
+            margin: 8px 8px 8px 8px;
+            border-radius: 8px;
+        }
+
+        .about-div {
+            background-color: lightblue;
+            height: 60px;
+            margin-left: 5px;
+            margin-right: 5px;
+            width: 200px;
+            margin-top: 9px;
+        }
+
+        .about-text {
+            padding-left: 90px;
+            padding-top: 10px;
+            margin-left: 5px;
+        }
+
+        .services-section-div {
+            background-color: lightgreen;
+            height: 60px;
+            margin-left: 5px;
+            margin-right: 5px;
+            width: 200px;
+            margin-top: 9px;
+        }
+
+        .services-section-text {
+            padding-left: 90px;
+            padding-top: 10px;
+        }
+
+        .best-web-designer-div {
+            background-color: rgb(150, 144, 238);
+            height: 60px;
+            margin-left: 5px;
+            margin-right: 5px;
+            width: 250px;
+            margin-top: 9px;
+        }
+
+        .best-web-designer-text {
+            padding-left: 90px;
+            padding-top: 10px;
+            font-size: 14px;
+            text-align: left;
+        }
+
+        .whatsapp-icon {
+            width: 60px;
+            height: 60px;
+            margin-top: 10px;
+            border-radius: 0px;
+            margin-right: 0;
+        }
+
+        .main-services-div {
+            display: flex;
+            flex-direction: rows;
+            height: 500px;
+            width: 100%;
+            Margin-top: 15px;
+            margin-bottom: 15px;
+            background-color: aqua
+        }
+
+        .web-development-div {
+            background-color: lightblue;
+            Height: 480px;
+            Margin-left: 10px;
+            Margin-right: 5;
+            flex: 1;
+            text-align: center;
+        }
+
+        .web-development-image {
+            margin-top: 10px;
+            width: 350px;
+            height: 200px;
+        }
+
+        .web-development-text {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        .graphic-designing-div {
+            background-color: rgb(165, 194, 5);
+            Height: 490px;
+            Margin-left: 5px;
+            Margin-right: 5px;
+            flex: 1;
+            text-align: center;
+        }
+
+        .graphic-designing-image {
+            margin-top: 10px;
+            width: 350px;
+            height: 200px;
+
+        }
+
+        .graphic-designing-text {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        .main-services2-div {
+            display: flex;
+            flex-direction: rows;
+            height: 500px;
+            width: 100%;
+            Margin-top: 15px;
+            margin-bottom: 15px;
+            background-color: aqua
+        }
+
+        .digital-marketing-div {
+            background-color: rgb(208, 144, 238);
+            Height: 490px;
+            Margin-left: 5px;
+            Margin-right: 5px;
+            flex: 1;
+            text-align: center;
+        }
+
+        .digital-marketing-image {
+            margin-top: 10px;
+            width: 350px;
+            height: 200px;
+        }
+
+        .digital-marketing-text {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        .SEO-div {
+            background-color: lightgreen;
+            Height: 490px;
+            Margin-left: 5px;
+            Margin-right: 5px;
+            flex: 1;
+            text-align: center;
+        }
+
+        .SEO-image {
+            margin-top: 10px;
+            width: 350px;
+            height: 200px;
+        }
+
+        .SEO-text {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+
+        .latest-projects-div {
+            background-color: rgb(238, 202, 136);
+            height: 300px;
+            margin-top: 3px;
+            margin-bottom: 0px;
+        }
+
+        .beellan-tv-image {
+            margin-top: 6px;
+            width: 300px;
+            height: 200px;
+            margin-right: 15px;
+            margin-left: 15px;
+            margin-bottom: 45px;
+        }
+
+        .gadman-adventures-image {
+            margin-top: 30px;
+            width: 350px;
+            height: 230px;
+            margin-right: 15px;
+            margin-left: 15px;
+            margin-bottom: 30px;
+        }
+
+        .perfection-juice-image {
+            margin-top: 30px;
+            width: 330px;
+            height: 230px;
+            margin-right: 15px;
+            margin-left: 15px;
+            margin-bottom: 30px;
+        }
+
+        .perfect-researchers-image {
+            margin-top: 30px;
+            width: 350px;
+            height: 230px;
+            margin-right: 15px;
+            margin-left: 15px;
+            margin-bottom: 30px;
+        }
+
+        .dubai-imports-image {
+            margin-top: 30px;
+            width: 350px;
+            height: 230px;
+            margin-right: 15px;
+            margin-left: 15px;
+            margin-bottom: 30px;
+        }
+
+        .blogs-div {
+            background-color: rgb(48, 48, 128);
+            height: 100px;
+        }
+
+        .blogs-title-text {
+            color: white;
+            margin-left: 10px;
+            margin-bottom: 5px;
+            margin-top: 10px;
+        }
+
+        .manage-website-text {
+            margin-left: 10px;
+            margin-bottom: 10px;
+            color: white;
+        }
+
+        .bfuown-website-text {
+            margin-left: 10px;
+            margin-bottom: 10px;
+            color: white;
+        }
+
+        .policy-terms-div {
+            display: flex;
+            flex-direction: columns;
+            height: 400px;
+            width: 100%;
+            Margin-top: 15px;
+            margin-bottom: 15px;
+            background-color: aqua flex: 1;
+        }
+
+        .privacy-policy-div {
+            background-color: rgb(185, 187, 182);
+            margin-left: 10px;
+            width: 50%;
+            height: 300px;
+        }
+
+        .privacy-policy-title {
+            text-align: center;
+            font-weight: 300;
+            font-size: 20px;
+        }
+
+        .privacy-policy-text {
+            margin: 20px 20px 20px 20px;
+            font-size: 14px;
+        }
+
+        .terms-service-div {
+            background-color: rgb(205, 194, 211);
+            width: 50%;
+            height: 300px;
+        }
+
+        .terms-service-title {
+            text-align: center;
+            font-weight: 300;
+            font-size: 20px;
+        }
+
+        .terms-service-text {
+            margin: 20px 20px 20px 20px;
+            font-size: 14px;
+        }
+
+        .footer-div {
+            background-color: rgb(133, 69, 133);
+            height: 60px;
+        }
+
+        .footer-text {
+            text-align: center;
+            padding-top: 15px;
+            padding-bottom: 5px;
+            font-size: 18px;
+            color: white;
+        }
+    }
+
+    @media (max-width:25rem) {
+        html {
+            font-size: 50%;
+            /* 6.4*/
+        }
+
+        .header-section-div {
+            background-color: rgb(15, 15, 15);
+            height: 60px;
+            width: 100%;
+            margin-bottom: 2px;
+        }
+
+        .contact {
+            padding-left: 1px;
+            margin-left: 15px;
+            padding-top: 1px;
+            padding-bottom: 0px;
+            margin-bottom: 0px;
+            font-size: 13px;
+            color: rgb(12,
+                    12, 12);
+            display: inline-block;
+            text-align: left;
+            line-height: 0;
+        }
+
+        .email {
+            padding-left: 1px;
+            margin-left: 5px;
+            padding-bottom: 1px;
+            color: rgb(248, 245, 245);
+            font-size: 12px;
+            display: inline-block;
+            text-align: right;
+            font-weight: 700;
+            line-height: 0;
+        }
+
+        .location-text {
+            padding-left: 0px;
+            margin-left: 80px;
+            padding-top: 0px;
+            padding-bottom: 0px;
+            margin-bottom: 0px;
+            font-size: 12px;
+            color: rgb(247, 242, 242);
+            display: inline-block;
+            text-align: left;
+            font-weight: 700;
+            line-height: 0;
+        }
+
+        .nav-bar {
+            background-color: rgb(202, 190, 201);
+            height: 50px;
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 2fr 1fr;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .logo-icon {
+            width: 100%;
+            height: 95%;
+            margin: 0px 0px 0px 0px;
+            border-radius: 0px;
+        }
+
+        .about-div {
+            background-color: rgb(110, 119, 68);
+            height: 95%;
+            margin-left: 1px;
+            margin-right: 1px;
+            width: 50px;
+            margin-top: 2px;
+        }
+
+        .about-text {
+            padding-left: 2px;
+            padding-top: 2px;
+            margin-left: 5px;
+            margin-bottom: 5px;
+            margin-left: 3px;
+            text-align: center;
+            font-size: 12px;
+        }
+
+        .services-section-div {
+            background-color: rgb(59, 136, 59);
+            height: 95%;
+            margin-left: 2px;
+            margin-right: 2px;
+            width: 70px;
+            margin-bottom: 2px;
+            margin-top: 2px;
+        }
+
+        .services-section-text {
+            padding-left: 2px;
+            padding-top: 1px;
+            font-size: 12px;
+        }
+
+        .best-web-designer-div {
+            background-color: rgb(150, 144, 238);
+            height: 95%;
+            margin-left: 2px;
+            margin-right: 15px;
+            width: 120px;
+            margin-top: 2px;
+            text-align: center;
+        }
+
+        .best-web-designer-text {
+            padding-left: 2px;
+            padding-top: 10px;
+            font-size: 12px;
+            margin: 0px;
+        }
+
+        .whatsapp-icon {
+            width: 45px;
+            height: 45px;
+            margin-top: 2px;
+            margin-right: 2px;
+            border-radius: 0px;
+            margin-right: 0;
+        }
+
+        .main-services-div {
+            display: flex;
+            flex-direction: column;
+            height: 1450px;
+            width: 100%;
+            Margin-top: 2px;
+            margin-bottom: 5px;
+            background-color: aqua
+        }
+
+        .web-development-div {
+            background-color: lightblue;
+            Height: 450px;
+            Margin-left: 2px;
+            Margin-right: 1px;
+            text-align: center;
+            display: block;
+            width: 100%;
+            margin-top: 3px;
+        }
+
+        .web-development-image {
+            margin-top: 2px;
+            width: 365px;
+            height: 170px;
+        }
+
+        .web-development-text {
+            padding-left: 2px;
+            padding-right: 2px;
+            font-size: 14px;
+        }
+
+        .graphic-designing-div {
+            background-color: lightblue;
+            Height: 450px;
+            Margin-left: 2px;
+            Margin-right: 1px;
+            text-align: center;
+            display: block;
+            width: 100%;
+            margin-top: 3px;
+        }
+
+        .graphic-designing-image {
+            margin-top: 2px;
+            width: 365px;
+            height: 170px;
+
+        }
+
+        .graphic-designing-text {
+            padding-left: 10px;
+            padding-right: 10px;
+            font-size: 14px;
+        }
+
+        .digital-marketing-div {
+            background-color: lightblue;
+            Height: 450px;
+            Margin-left: 2px;
+            Margin-right: 1px;
+            text-align: center;
+            display: block;
+            width: 100%;
+            margin-top: 3px;
+        }
+
+        .digital-marketing-image {
+            margin-top: 2px;
+            width: 365px;
+            height: 170px;
+        }
+
+        .digital-marketing-text {
+            padding-left: 10px;
+            padding-right: 10px;
+            font-size: 14px;
+        }
+
+        .SEO-div {
+            background-color: lightblue;
+            Height: 450px;
+            Margin-left: 2px;
+            Margin-right: 1px;
+            flex: auto;
+            flex-direction: column;
+            text-align: center;
+            display: block;
+            width: 100%;
+            margin-top: 3px;
+        }
+
+        .SEO-image {
+            margin-top: 2px;
+            width: 365px;
+            height: 170px;
+        }
+
+        .SEO-text {
+            padding-left: 10px;
+            padding-right: 10px;
+            font-size: 14px;
+        }
+
+
+        .latest-projects-div {
+            background-color: rgb(212, 211, 209);
+            height: 1000px;
+            margin-top: 3px;
+            margin-bottom: 0px;
+            width: 100%;
+        }
+
+        .beellan-tv-image {
+            margin-top: 2px;
+            width: 300px;
+            height: 200px;
+            margin-right: 10px;
+            margin-left: 10px;
+            margin-bottom: 3px;
+        }
+
+        .gadman-adventures-image {
+            margin-top: 10px;
+            width: 340px;
+            height: 170px;
+            margin-right: 10px;
+            margin-left: 10px;
+            margin-bottom: 10px;
+        }
+
+        .perfection-juice-image {
+            margin-top: 3px;
+            width: 340px;
+            height: 170px;
+            margin-right: 10px;
+            margin-left: 10px;
+            margin-bottom: 3px;
+        }
+
+        .perfect-researchers-image {
+            margin-top: 30px;
+            width: 340px;
+            height: 170px;
+            margin-right: 10px;
+            margin-left: 10px;
+            margin-bottom: 3px;
+        }
+
+        .dubai-imports-image {
+            margin-top: 3px;
+            width: 330px;
+            height: 200px;
+            margin-right: 10px;
+            margin-left: 10px;
+            margin-bottom: 3px;
+        }
+
+        .blogs-div {
+            background-color: rgb(48, 48, 128);
+            height: 100px;
+            width: 100%;
+        }
+
+        .blogs-title-text {
+            color: white;
+            margin-left: 10px;
+            margin-bottom: 5px;
+            margin-top: 10px;
+        }
+
+        .manage-website-text {
+            margin-left: 10px;
+            margin-bottom: 10px;
+            color: white;
+        }
+
+        .bfuown-website-text {
+            margin-left: 10px;
+            margin-bottom: 10px;
+            color: white;
+        }
+
+        .policy-terms-div {
+            display: flex;
+            flex-direction: columns;
+            height: 1430px;
+            width: 100%;
+            Margin-top: 5px;
+            background-color: aqua flex: 1;
+        }
+
+        .privacy-policy-div {
+            background-color: rgb(185, 187, 182);
+            margin-left: 10px;
+            width: 50%;
+            height: 100%;
+        }
+
+        .privacy-policy-text {
+            margin: 20px 20px 20px 20px;
+        }
+
+        .terms-service-div {
+            background-color: rgb(205, 194, 211);
+            width: 50%;
+            height: 100%;
+        }
+
+        .terms-service-text {
+            margin: 20px 20px 20px 20px;
+        }
+
+        .footer-div {
+            background-color: rgb(133, 69, 133);
+            height: 40px;
+        }
+
+        .footer-text {
+            text-align: center;
+            padding-top: 10px;
+            padding-bottom: 5px;
+            font-size: 14px;
+            color: white;
+        }
+    }
